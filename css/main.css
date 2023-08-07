@@ -98,6 +98,10 @@ a {
     align-items: flex-start;
 }
 
+.slideButton {
+    
+}
+
 .content__clain {
     font-size: 64px;
     color: var(--accent-color);
